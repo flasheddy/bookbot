@@ -1,0 +1,3 @@
+[[language]]
+name = "python"
+formatter = { command = "uv", args = ["run", "ruff", "format", "-"] }
